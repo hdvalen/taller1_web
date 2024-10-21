@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    background-color: #fcf3e7;
+}
+.men{ 
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.sant{
+    text-align: center;
+}
+.tab1{
+    border: black;
+}
+
+.tab2{
+    border: black;
+}
+
+.a:link a:visited{
+    color: white;
+    background-color: #7a7aad;
+    padding: 10px 20px;
+    margin: 10px;
+    text-align: center; 
+    display:inline-block;
+    border-radius: 10px;
+    text-decoration: None;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.amaz{
+    text-align: center;
+}
+.imgAmaz{
+    left: 20px;
+    right: 20px;
+    top: 20px;
+    bottom: 20px;
+}
