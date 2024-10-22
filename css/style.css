@@ -9,15 +9,20 @@
     margin-left: 400px;
     margin-right: 400px;
     margin-bottom: 20px;
-    margin-top: 10px;
+    margin-top: 20px;
     border-radius: 10px;
-    background-color: #f7e6e6;
+    background-color: #dddddd;
     box-shadow: 10px 10px 5px 0px #838282;
     padding: 20px ;
 }
 .eleccion{
     text-align: justify;
     margin-left: 50px;
+}
+.eleccion1{
+    text-align: justify;
+    margin: 15px;
+
 }
 .cont{
     background-size: cover;
@@ -29,11 +34,11 @@
     margin: 10px;
 }
 .tab1{
-    background-color:#f7f0f0;
+    background-color:#eff0ed;
     color:#000000;
     padding: 10px ;
     max-width: 1000px;
-    border: 2px solid #faf5f5 ;
+    border: 2px solid #eff0ed;
     border-radius: 20px;
     margin: 10px  ;
     text-align: justify;
@@ -47,7 +52,7 @@
 }
 .boton{
     color: #000000;
-    background-color: #f1e2c4;
+    background-color: #bdbdbd;
     padding: 15px 20px;
     text-align: center; 
     display:inline-block;
